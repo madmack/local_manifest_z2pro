@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/zuk/z2pro" name="madmack/android_device_zuk_z2pro" remote="github" />
+  <project path="device/qcom/common" name="cyanogenmod/android_device_qcom_common" remote="github" />
+  <project path="vendor/zuk/z2pro" name="madmack/android_vendor_zuk_z2pro" remote="github" />
+  <project path="kernel/zuk/msm8996" name="madmack/android_kernel_zuk_msm8996" remote="github" />
+</manifest>
